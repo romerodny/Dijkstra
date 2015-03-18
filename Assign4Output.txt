@@ -1,0 +1,167 @@
+Grid 1
+
+run:
+Finding shortest path
+
+( 0, 0 ) cell is 0
+( 1, 1 ) cell is 974
+( 2, 2 ) cell is 566
+( 3, 3 ) cell is 169
+( 4, 3 ) cell is 525
+( 5, 4 ) cell is 556
+( 6, 5 ) cell is 261
+( 7, 5 ) cell is 105
+( 8, 6 ) cell is 168
+( 9, 6 ) cell is 485
+...
+( 30, 12 ) cell is 220
+( 31, 13 ) cell is 265
+( 32, 13 ) cell is 160
+( 33, 12 ) cell is 264
+( 34, 13 ) cell is 248
+( 35, 14 ) cell is 546
+( 36, 15 ) cell is 270
+( 37, 16 ) cell is 270
+( 37, 17 ) cell is 278
+( 38, 18 ) cell is 506
+( 39, 19 ) cell is 0
+Total cost is 13066
+
+Finding the weight limit
+
+( 0, 0 ) cell is 0
+( 1, 1 ) cell is 974
+( 1, 2 ) cell is 817
+( 2, 3 ) cell is 746
+( 1, 4 ) cell is 736
+( 0, 5 ) cell is 642
+( 1, 6 ) cell is 748
+( 2, 7 ) cell is 895
+( 3, 6 ) cell is 843
+( 3, 5 ) cell is 714
+...
+( 34, 10 ) cell is 956
+( 35, 11 ) cell is 941
+( 36, 12 ) cell is 659
+( 37, 13 ) cell is 853
+( 36, 14 ) cell is 874
+( 37, 15 ) cell is 800
+( 36, 16 ) cell is 570
+( 36, 17 ) cell is 623
+( 37, 18 ) cell is 894
+( 38, 19 ) cell is 666
+( 39, 19 ) cell is 0
+All cells support 564
+BUILD SUCCESSFUL (total time: 0 seconds)
+------------------------------------------------------------------------
+Grid 2
+
+run:
+Finding shortest path
+
+( 0, 0 ) cell is 0
+( 1, 0 ) cell is 2855
+( 2, 0 ) cell is 1094
+( 3, 1 ) cell is 5533
+( 4, 0 ) cell is 2852
+( 5, 1 ) cell is 4146
+( 6, 2 ) cell is 1840
+( 6, 3 ) cell is 4075
+( 7, 4 ) cell is 3150
+( 8, 5 ) cell is 1044
+...
+( 70, 74 ) cell is 4330
+( 71, 75 ) cell is 1515
+( 72, 76 ) cell is 3080
+( 73, 77 ) cell is 1241
+( 74, 78 ) cell is 1992
+( 75, 77 ) cell is 2523
+( 76, 76 ) cell is 6591
+( 77, 76 ) cell is 1681
+( 78, 77 ) cell is 2317
+( 79, 78 ) cell is 3709
+( 79, 79 ) cell is 0
+Total cost is 295261
+
+Finding the weight limit
+
+( 0, 0 ) cell is 0
+( 0, 1 ) cell is 6605
+( 1, 2 ) cell is 6291
+( 2, 3 ) cell is 8147
+( 3, 3 ) cell is 8580
+( 4, 3 ) cell is 8120
+( 5, 2 ) cell is 7721
+( 6, 1 ) cell is 8532
+( 7, 2 ) cell is 8290
+( 8, 3 ) cell is 7163
+...
+( 70, 72 ) cell is 7571
+( 71, 73 ) cell is 8400
+( 72, 73 ) cell is 5508
+( 73, 74 ) cell is 8006
+( 74, 73 ) cell is 9836
+( 75, 74 ) cell is 8128
+( 76, 75 ) cell is 7802
+( 76, 76 ) cell is 6591
+( 77, 77 ) cell is 9764
+( 78, 78 ) cell is 5279
+( 79, 79 ) cell is 0
+All cells support 5279
+BUILD SUCCESSFUL (total time: 0 seconds)
+------------------------------------------------------------
+Grid 3
+
+run:
+Finding shortest path
+
+( 0, 0 ) cell is 0
+( 1, 0 ) cell is 11114
+( 2, 1 ) cell is 16808
+( 3, 0 ) cell is 39495
+( 4, 1 ) cell is 24534
+( 5, 1 ) cell is 41209
+( 6, 2 ) cell is 16178
+( 7, 3 ) cell is 20928
+( 8, 4 ) cell is 11934
+( 9, 5 ) cell is 41578
+...
+( 496, 489 ) cell is 54420
+( 496, 490 ) cell is 11889
+( 497, 491 ) cell is 33997
+( 496, 492 ) cell is 12173
+( 496, 493 ) cell is 46466
+( 497, 494 ) cell is 21807
+( 497, 495 ) cell is 10190
+( 497, 496 ) cell is 31828
+( 498, 497 ) cell is 13741
+( 498, 498 ) cell is 13138
+( 499, 499 ) cell is 0
+Total cost is 17877271
+
+Finding the weight limit
+
+( 0, 0 ) cell is 0
+( 0, 1 ) cell is 91600
+( 1, 2 ) cell is 64666
+( 2, 3 ) cell is 84735
+( 1, 4 ) cell is 63613
+( 0, 5 ) cell is 67545
+( 0, 6 ) cell is 99566
+( 1, 7 ) cell is 89857
+( 0, 8 ) cell is 90900
+( 1, 9 ) cell is 80591
+...
+( 494, 491 ) cell is 87757
+( 495, 492 ) cell is 60610
+( 494, 493 ) cell is 83035
+( 495, 494 ) cell is 96630
+( 496, 495 ) cell is 84387
+( 496, 496 ) cell is 61855
+( 497, 497 ) cell is 63138
+( 498, 496 ) cell is 97902
+( 499, 497 ) cell is 45564
+( 499, 498 ) cell is 67588
+( 499, 499 ) cell is 0
+All cells support 45564
+BUILD SUCCESSFUL (total time: 0 seconds)
